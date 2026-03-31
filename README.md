@@ -77,13 +77,12 @@ http://127.0.0.1:8000/chat?query=brute_force
 
 ## 📸 Demo
 
-> Add screenshots here (VERY IMPORTANT)
+### 🔹 Detection Output
+![Run Output](assets/run_output.png)
 
-```
-/run output screenshot
-/chat output screenshot
-```
-
+### 🔹 Chat Analysis
+![Chat Output 1](assets/chat_output[1].png)
+![Chat Output 2](assets/chat_output[2].png)
 ---
 
 ## 📊 Example Output
