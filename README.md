@@ -1,11 +1,5 @@
 # 🛡️ Agentic SOC Analyst (AI-Powered Security System)
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![AI](https://img.shields.io/badge/AI-Agentic-orange)
-![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
-
----
 
 ## 🚀 Overview
 
@@ -43,6 +37,13 @@ Logs → Detection → Investigation → Decision → Response → MITRE Mapping
 * **Data:** JSON-based simulated logs
 
 ---
+## 🏅 Certifications & Badges
+
+[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity-blue?logo=cisco)](https://www.credly.com/badges/e7ff3bc0-9ea0-47a1-928e-6a8c52ca52ab/public_url)
+[![ISC2 Certified](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-orange)](https://www.credly.com/badges/d6cf8ad7-0b1a-45ed-b03f-07552cca3bea/public_url)
+
+- 🛡️ Cisco Cybersecurity Certification (Credly Verified)  
+- 🔐 ISC2 Certified in Cybersecurity (CC)
 
 ## ▶️ How to Run
 
