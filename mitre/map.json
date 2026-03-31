@@ -1,0 +1,10 @@
+{
+  "brute_force": {
+    "technique": "T1110",
+    "tactic": "Credential Access"
+  },
+  "port_scan": {
+    "technique": "T1046",
+    "tactic": "Discovery"
+  }
+}
